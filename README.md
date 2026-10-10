@@ -4,23 +4,6 @@
 
 ClaudeCode is a terminal-native CLI agent designed to bring advanced LLM capabilities directly into your development workflow. Built for speed, safety, and efficiency, it provides an interactive agent shell, workspace-aware tools, and persistent session management. It is an independent open-source implementation inspired by Claude Code, not the official Anthropic product.
 
-![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Total+views&color=ffa500&style=for-the-badge)
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=soongenwong%2Fclaudecode&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=soongenwong/claudecode&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=soongenwong/claudecode&type=date&legend=top-left" />
-   <img alt="ClaudeCode Star History" src="https://api.star-history.com/chart?repos=soongenwong/claudecode&type=date&legend=top-left" />
- </picture>
-</a>
-
-## Related Projects
-
-- [Anthropic developer docs](https://platform.claude.com/docs)
-- [Anthropic](https://www.anthropic.com/)
-- [Anthropic on X](https://x.com/AnthropicAI)
 
 ## Key Features
 
